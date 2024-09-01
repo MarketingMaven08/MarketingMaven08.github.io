@@ -1,7 +1,7 @@
 # Site
-name: "rfazriansyah376"
-title: "rfazriansyah376"
-description: "Build relationships, not links"
+name: "MarketingMaven08"
+title: "MarketingMaven08"
+description: "Strategic Insights, Superior Marketing Results"
 logo: '/assets/images/logo.png'
 favicon: '/assets/images/logo.png'
 baseurl: /
@@ -48,7 +48,7 @@ jekyll-archives:
     category: '{{ site.url }}/category/:name/'
     
 # Pagination 
-paginate: 6
+paginate: 8
 paginate_path: /page:num/
     
 # Other
